@@ -1,0 +1,8 @@
+data/
+src/models/EASE.pkl
+.venv/
+.idea/
+__pycache__/
+.ipynb_checkpoints/gi
+.pytest_cache/
+*.pyc
